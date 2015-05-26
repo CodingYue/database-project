@@ -28,7 +28,6 @@ CREATE TABLE Feedback (
 CREATE TABLE evaluate (
 	login_name varchar(255),
 	feedback_id int
-
 );
 
 CREATE TABLE trusting_records (

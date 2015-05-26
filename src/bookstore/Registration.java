@@ -9,13 +9,16 @@ import java.util.Scanner;
 public class Registration {
     boolean Register(Connection con, String[] args) throws Exception{
 
+        for (int i = 0; i < args.length; ++i) System.out.println(args[i]);
+
         String LoginName = args[0];
 
-        String sql = "select * from Customer where Cuntomer.login_name = '" + LoginName + "'";
+        String sql = "select * from Customer where Customer.login_name = " + LoginName;
         PreparedStatement query = con.prepareStatement(sql);
         String output = "";
         ResultSet result = query.executeQuery(sql);
-        if (result != null) {
+
+        if (result.next() == true) {
             result.close();
             return false;
         }
