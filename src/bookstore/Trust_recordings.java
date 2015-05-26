@@ -12,6 +12,9 @@ public class Trust_recordings {
             PreparedStatement insert = con.prepareStatement("INSERT INTO Trusting_records VALUES("
                     + user + ", " + args[i] + ", " + trust[i] + ")"
             );
+            //System.out.println(insert.toString());
+            insert.executeUpdate();
         }
+
     }
 }

@@ -12,11 +12,14 @@ public class Usefulness_ratings {
         String user = args[0];
         String feedback_id = args[1];
 
-        PreparedStatement query = con.prepareStatement("SELECT * FROM Feedback WHERE id = "
-                        + feedback_id + "login_name = " + user
+        PreparedStatement query = con.prepareStatement(
+                "SELECT * FROM evaluate WHERE feedback_id = "
+                        + feedback_id + " AND " +
+                        " login_name = " + user
         );
+        System.out.println(query.toString());
         ResultSet result = query.executeQuery();
-        if (result != null) {
+        if (result.next()) {
             result.close();
             return false;
         }

@@ -16,7 +16,7 @@ public class Ordering {
 
             PreparedStatement query = con.prepareStatement("SELECT * from Book Where Book.ISBN = " + ISBN[i]);
             ResultSet result = query.executeQuery();
-            if (result == null) continue;
+            if (!result.next()) continue;
             total += result.getDouble("price") * amount[i];
 
             result.close();
@@ -27,11 +27,13 @@ public class Ordering {
     void ordering(Connection con, String[] args) throws Exception {
 
         PreparedStatement query = con.prepareStatement("SELECT * FROM Orders WHERE " +
-                "ISBN = " + args[0] + " login_name = " + args[1] + " made_date = " + args[2]);
-
+                "ISBN = " + args[1] + " and " +
+                " login_name = " + args[0] + " and " +
+                " made_date = " + args[2]);
+        System.out.println(query.toString());
         ResultSet result = query.executeQuery();
 
-        if (result == null) {
+        if (!result.next()) {
             String tmpStatement = "INSERT INTO Orders VALUES(";
             for (int i = 0; i < args.length; ++i) {
                 tmpStatement += args[i];

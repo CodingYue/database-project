@@ -67,7 +67,7 @@
         <entry file="file://$PROJECT_DIR$/src/bookstore/Registration.java">
           <provider selected="true" editor-type-id="text-editor">
             <state vertical-scroll-proportion="0.0">
-              <caret line="29" column="41" selection-start-line="29" selection-start-column="37" selection-end-line="29" selection-end-column="37" />
+              <caret line="16" column="0" selection-start-line="16" selection-start-column="0" selection-end-line="16" selection-end-column="0" />
               <folding>
                 <element signature="imports" expanded="true" />
                 <marker date="1432568717000" expanded="true" signature="337:388" placeholder="select * fro..Customer..." />
@@ -82,22 +82,23 @@
         <entry file="file://$PROJECT_DIR$/src/bookstore/Ordering.java">
           <provider selected="true" editor-type-id="text-editor">
             <state vertical-scroll-proportion="0.0">
-              <caret line="41" column="32" selection-start-line="41" selection-start-column="32" selection-end-line="41" selection-end-column="32" />
+              <caret line="42" column="71" selection-start-line="42" selection-start-column="71" selection-end-line="42" selection-end-column="71" />
               <folding>
                 <element signature="imports" expanded="true" />
-                <marker date="1432238201000" expanded="true" signature="394:430" placeholder="SELECT * fro..Book..." />
-                <marker date="1432238201000" expanded="true" signature="394:431" placeholder="SELECT * fro..Book..." />
-                <marker date="1432238201000" expanded="true" signature="394:442" placeholder="SELECT * fro..Book..." />
-                <marker date="1432238201000" expanded="true" signature="793:820" placeholder="SELECT * FRO..Orders..." />
-                <marker date="1432238201000" expanded="true" signature="793:847" placeholder="SELECT * FRO..Orders..." />
-                <marker date="1432238201000" expanded="true" signature="793:848" placeholder="SELECT * FRO..Orders..." />
-                <marker date="1432238201000" expanded="true" signature="793:876" placeholder="SELECT * FRO..Orders..." />
-                <marker date="1432238201000" expanded="true" signature="793:877" placeholder="SELECT * FRO..Orders..." />
-                <marker date="1432238201000" expanded="true" signature="793:904" placeholder="SELECT * FRO..Orders..." />
-                <marker date="1432238201000" expanded="true" signature="793:905" placeholder="SELECT * FRO..Orders..." />
-                <marker date="1432238201000" expanded="true" signature="793:909" placeholder="SELECT * FRO..Orders..." />
-                <marker date="1432238201000" expanded="true" signature="1035:1061" placeholder="INSERT INTO ..." />
-                <marker date="1432238201000" expanded="true" signature="1431:1578" placeholder="UPDATE Order..." />
+                <marker date="1432601968000" expanded="true" signature="394:430" placeholder="SELECT * fro..Book..." />
+                <marker date="1432601968000" expanded="true" signature="394:431" placeholder="SELECT * fro..Book..." />
+                <marker date="1432601968000" expanded="true" signature="394:442" placeholder="SELECT * fro..Book..." />
+                <marker date="1432601968000" expanded="true" signature="793:820" placeholder="SELECT * FRO..Orders..." />
+                <marker date="1432601968000" expanded="true" signature="793:847" placeholder="SELECT * FRO..Orders..." />
+                <marker date="1432601968000" expanded="true" signature="793:848" placeholder="SELECT * FRO..Orders..." />
+                <marker date="1432601968000" expanded="true" signature="793:867" placeholder="SELECT * FRO..Orders..." />
+                <marker date="1432601968000" expanded="true" signature="793:902" placeholder="SELECT * FRO..Orders..." />
+                <marker date="1432601968000" expanded="true" signature="793:903" placeholder="SELECT * FRO..Orders..." />
+                <marker date="1432601968000" expanded="true" signature="793:956" placeholder="SELECT * FRO..Orders..." />
+                <marker date="1432601968000" expanded="true" signature="793:957" placeholder="SELECT * FRO..Orders..." />
+                <marker date="1432601968000" expanded="true" signature="793:961" placeholder="SELECT * FRO..Orders..." />
+                <marker date="1432601968000" expanded="true" signature="1132:1158" placeholder="INSERT INTO ..." />
+                <marker date="1432601968000" expanded="true" signature="1528:1675" placeholder="UPDATE Order..." />
               </folding>
             </state>
           </provider>
@@ -120,15 +121,15 @@
         <entry file="file://$PROJECT_DIR$/src/bookstore/Arrive_of_copis.java">
           <provider selected="true" editor-type-id="text-editor">
             <state vertical-scroll-proportion="0.0">
-              <caret line="19" column="0" selection-start-line="19" selection-start-column="0" selection-end-line="19" selection-end-column="0" />
+              <caret line="13" column="50" selection-start-line="13" selection-start-column="50" selection-end-line="13" selection-end-column="50" />
               <folding>
                 <element signature="imports" expanded="true" />
-                <marker date="1431621706000" expanded="true" signature="359:390" placeholder="UPDATE Book ..." />
-                <marker date="1431621706000" expanded="true" signature="359:391" placeholder="UPDATE Book ..." />
-                <marker date="1431621706000" expanded="true" signature="359:441" placeholder="UPDATE Book ..." />
-                <marker date="1431621706000" expanded="true" signature="359:480" placeholder="UPDATE Book ..." />
-                <marker date="1431621706000" expanded="true" signature="359:481" placeholder="UPDATE Book ..." />
-                <marker date="1431621706000" expanded="true" signature="359:506" placeholder="UPDATE Book ..." />
+                <marker date="1432621769000" expanded="true" signature="359:390" placeholder="UPDATE Book ..." />
+                <marker date="1432621769000" expanded="true" signature="359:391" placeholder="UPDATE Book ..." />
+                <marker date="1432621769000" expanded="true" signature="359:441" placeholder="UPDATE Book ..." />
+                <marker date="1432621769000" expanded="true" signature="359:481" placeholder="UPDATE Book ..." />
+                <marker date="1432621769000" expanded="true" signature="359:482" placeholder="UPDATE Book ..." />
+                <marker date="1432621769000" expanded="true" signature="359:507" placeholder="UPDATE Book ..." />
               </folding>
             </state>
           </provider>
@@ -138,14 +139,17 @@
         <entry file="file://$PROJECT_DIR$/src/bookstore/Feedback_recordings.java">
           <provider selected="true" editor-type-id="text-editor">
             <state vertical-scroll-proportion="0.0">
-              <caret line="34" column="20" selection-start-line="34" selection-start-column="20" selection-end-line="34" selection-end-column="20" />
+              <caret line="48" column="30" selection-start-line="48" selection-start-column="0" selection-end-line="48" selection-end-column="0" />
               <folding>
                 <element signature="imports" expanded="true" />
-                <marker date="1432235752000" expanded="true" signature="390:425" placeholder="SELECT * fro..Feedback..." />
-                <marker date="1432235752000" expanded="true" signature="390:426" placeholder="SELECT * fro..Feedback..." />
-                <marker date="1432235752000" expanded="true" signature="390:467" placeholder="SELECT * fro..Feedback..." />
-                <marker date="1432235752000" expanded="true" signature="390:468" placeholder="SELECT * fro..Feedback..." />
-                <marker date="1432235752000" expanded="true" signature="664:692" placeholder="INSERT INTO ..." />
+                <marker date="1432622527000" expanded="true" signature="390:454" placeholder="SELECT * fro..Feedback..." />
+                <marker date="1432622527000" expanded="true" signature="390:455" placeholder="SELECT * fro..Feedback..." />
+                <marker date="1432622527000" expanded="true" signature="390:471" placeholder="SELECT * fro..Feedback..." />
+                <marker date="1432622527000" expanded="true" signature="390:472" placeholder="SELECT * fro..Feedback..." />
+                <marker date="1432622527000" expanded="true" signature="390:519" placeholder="SELECT * fro..Feedback..." />
+                <marker date="1432622527000" expanded="true" signature="390:520" placeholder="SELECT * fro..Feedback..." />
+                <marker date="1432622527000" expanded="true" signature="739:768" placeholder="SELECT COUNT..Feedback..." />
+                <marker date="1432622527000" expanded="true" signature="1002:1030" placeholder="INSERT INTO ..." />
               </folding>
             </state>
           </provider>
@@ -155,14 +159,15 @@
         <entry file="file://$PROJECT_DIR$/src/bookstore/Usefulness_ratings.java">
           <provider selected="true" editor-type-id="text-editor">
             <state vertical-scroll-proportion="0.0">
-              <caret line="22" column="0" selection-start-line="22" selection-start-column="0" selection-end-line="22" selection-end-column="0" />
+              <caret line="20" column="39" selection-start-line="20" selection-start-column="39" selection-end-line="20" selection-end-column="39" />
               <folding>
                 <element signature="imports" expanded="true" />
-                <marker date="1431622660000" expanded="true" signature="375:408" placeholder="SELECT * FRO..Feedback..." />
-                <marker date="1431622660000" expanded="true" signature="375:409" placeholder="SELECT * FRO..Feedback..." />
-                <marker date="1431622660000" expanded="true" signature="375:464" placeholder="SELECT * FRO..Feedback..." />
-                <marker date="1431622660000" expanded="true" signature="375:465" placeholder="SELECT * FRO..Feedback..." />
-                <marker date="1431622660000" expanded="true" signature="660:687" placeholder="INSERT INTO ..." />
+                <marker date="1432623092000" expanded="true" signature="392:434" placeholder="SELECT * FRO..Feedback..." />
+                <marker date="1432623092000" expanded="true" signature="392:435" placeholder="SELECT * FRO..Feedback..." />
+                <marker date="1432623092000" expanded="true" signature="392:482" placeholder="SELECT * FRO..Feedback..." />
+                <marker date="1432623092000" expanded="true" signature="392:525" placeholder="SELECT * FRO..Feedback..." />
+                <marker date="1432623092000" expanded="true" signature="392:526" placeholder="SELECT * FRO..Feedback..." />
+                <marker date="1432623092000" expanded="true" signature="766:793" placeholder="INSERT INTO ..." />
               </folding>
             </state>
           </provider>
@@ -172,20 +177,20 @@
         <entry file="file://$PROJECT_DIR$/src/bookstore/Trust_recordings.java">
           <provider selected="true" editor-type-id="text-editor">
             <state vertical-scroll-proportion="0.0">
-              <caret line="8" column="13" selection-start-line="8" selection-start-column="13" selection-end-line="8" selection-end-column="13" />
+              <caret line="15" column="0" selection-start-line="15" selection-start-column="0" selection-end-line="15" selection-end-column="0" />
               <folding>
                 <element signature="imports" expanded="true" />
-                <marker date="1431622929000" expanded="true" signature="357:461" placeholder="INSERT INTO ..." />
+                <marker date="1432623345000" expanded="true" signature="357:461" placeholder="INSERT INTO ..." />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Main.java" pinned="false" current-in-tab="true">
+      <file leaf-file-name="Main.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/bookstore/Main.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.78740156">
-              <caret line="66" column="39" selection-start-line="66" selection-start-column="39" selection-end-line="66" selection-end-column="39" />
+            <state vertical-scroll-proportion="0.0">
+              <caret line="149" column="31" selection-start-line="149" selection-start-column="31" selection-end-line="149" selection-end-column="31" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -193,17 +198,23 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Book_Browsing.java" pinned="false" current-in-tab="false">
+      <file leaf-file-name="Book_Browsing.java" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/bookstore/Book_Browsing.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0">
-              <caret line="19" column="0" selection-start-line="19" selection-start-column="0" selection-end-line="19" selection-end-column="0" />
+            <state vertical-scroll-proportion="0.6666667">
+              <caret line="68" column="6" selection-start-line="68" selection-start-column="6" selection-end-line="68" selection-end-column="6" />
               <folding>
                 <element signature="imports" expanded="true" />
-                <marker date="1431625667000" expanded="true" signature="291:315" placeholder="SELECT * FRO..Book..." />
-                <marker date="1431625667000" expanded="true" signature="912:1022" placeholder="SELECT avg(F..Feedback..." />
-                <marker date="1431625667000" expanded="true" signature="998:1022" placeholder="SELECT * FRO..Book..." />
-                <marker date="1431625667000" expanded="true" signature="1520:1669" placeholder="SELECT avg(F..Feedback..." />
+                <marker date="1432626032000" expanded="true" signature="432:456" placeholder="SELECT * FRO..Book..." />
+                <marker date="1432626032000" expanded="true" signature="1236:1362" placeholder="SELECT avg(F..Feedback..." />
+                <marker date="1432626032000" expanded="true" signature="1330:1362" placeholder="SELECT * FRO..Book..." />
+                <marker date="1432626032000" expanded="true" signature="1992:2090" placeholder="SELECT avg(F..Feedback..." />
+                <marker date="1432626032000" expanded="true" signature="1992:2294" placeholder="SELECT avg(F..Feedback..." />
+                <marker date="1432626032000" expanded="true" signature="2114:2146" placeholder="SELECT login..." />
+                <marker date="1432626032000" expanded="true" signature="2114:2186" placeholder="SELECT login..WHERE..." />
+                <marker date="1432626032000" expanded="true" signature="2114:2189" placeholder="SELECT login..." />
+                <marker date="1432626032000" expanded="true" signature="2114:2294" placeholder="SELECT missi..." />
+                <marker date="1432626032000" expanded="true" signature="2267:2294" placeholder="SELECT ISBN ..Book..." />
               </folding>
             </state>
           </provider>
@@ -241,15 +252,15 @@
         <option value="$PROJECT_DIR$/src/Connector.java" />
         <option value="$PROJECT_DIR$/src/bookstore/main" />
         <option value="$PROJECT_DIR$/src/bookstore/NewBook.java" />
-        <option value="$PROJECT_DIR$/src/bookstore/Arrive_of_copis.java" />
-        <option value="$PROJECT_DIR$/src/bookstore/Usefulness_ratings.java" />
-        <option value="$PROJECT_DIR$/src/bookstore/Trust_recordings.java" />
-        <option value="$PROJECT_DIR$/src/bookstore/Book_Browsing.java" />
-        <option value="$PROJECT_DIR$/src/bookstore/Feedback_recordings.java" />
-        <option value="$PROJECT_DIR$/src/bookstore/Ordering.java" />
         <option value="$PROJECT_DIR$/src/bookstore/Connector.java" />
         <option value="$PROJECT_DIR$/src/bookstore/Registration.java" />
+        <option value="$PROJECT_DIR$/src/bookstore/Ordering.java" />
+        <option value="$PROJECT_DIR$/src/bookstore/Arrive_of_copis.java" />
+        <option value="$PROJECT_DIR$/src/bookstore/Feedback_recordings.java" />
+        <option value="$PROJECT_DIR$/src/bookstore/Usefulness_ratings.java" />
+        <option value="$PROJECT_DIR$/src/bookstore/Trust_recordings.java" />
         <option value="$PROJECT_DIR$/src/bookstore/Main.java" />
+        <option value="$PROJECT_DIR$/src/bookstore/Book_Browsing.java" />
       </list>
     </option>
   </component>
@@ -271,6 +282,31 @@
     <option name="y" value="23" />
     <option name="width" value="1280" />
     <option name="height" value="726" />
+  </component>
+  <component name="ProjectInspectionProfilesVisibleTreeState">
+    <entry key="Project Default">
+      <profile-state>
+        <expanded-state>
+          <State>
+            <id />
+          </State>
+          <State>
+            <id>Android Lint</id>
+          </State>
+          <State>
+            <id>GeneralJava</id>
+          </State>
+          <State>
+            <id>Java</id>
+          </State>
+        </expanded-state>
+        <selected-state>
+          <State>
+            <id>Android</id>
+          </State>
+        </selected-state>
+      </profile-state>
+    </entry>
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="false">
     <OptionsSetting value="true" id="Add" />
@@ -355,7 +391,7 @@
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
-    <property name="settings.editor.selected.configurable" value="preferences.keymap" />
+    <property name="settings.editor.selected.configurable" value="editor.preferences.folding" />
     <property name="settings.editor.splitter.proportion" value="0.2" />
     <property name="last_opened_file_path" value="$USER_HOME$/Downloads/javasample-fudan/mysql.jar!/" />
     <property name="recentsLimit" value="5" />
@@ -684,12 +720,12 @@
       <workItem from="1432286656941" duration="1629000" />
       <workItem from="1432319249386" duration="1520000" />
       <workItem from="1432454147540" duration="647000" />
-      <workItem from="1432538749134" duration="3514000" />
+      <workItem from="1432538749134" duration="13366000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="21024000" />
+    <option name="totallyTimeSpent" value="30876000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -702,7 +738,7 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="23" width="1280" height="726" extended-state="0" />
-    <editor active="false" />
+    <editor active="true" />
     <layout>
       <window_info id="Palette&#9;" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="UI Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
@@ -715,13 +751,13 @@
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="true" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="true" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
-      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32876712" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32934928" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="true" content_ui="tabs" />
       <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Application Servers" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.3296875" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
-      <window_info id="Run" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.37747335" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.37747335" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
     </layout>
   </component>
@@ -743,7 +779,33 @@
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
-      <option name="time" value="17" />
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/bookstore/Arrive_of_copis.java</url>
+          <line>18</line>
+          <properties />
+          <option name="timeStamp" value="28" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/bookstore/Usefulness_ratings.java</url>
+          <line>26</line>
+          <properties />
+          <option name="timeStamp" value="36" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/bookstore/Main.java</url>
+          <line>163</line>
+          <properties />
+          <option name="timeStamp" value="38" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/bookstore/Book_Browsing.java</url>
+          <line>68</line>
+          <properties />
+          <option name="timeStamp" value="47" />
+        </line-breakpoint>
+      </breakpoints>
+      <option name="time" value="48" />
     </breakpoint-manager>
     <watches-manager>
       <configuration name="Application">
@@ -763,7 +825,7 @@
           <caret line="8" column="13" selection-start-line="8" selection-start-column="13" selection-end-line="8" selection-end-column="13" />
           <folding>
             <element signature="imports" expanded="true" />
-            <marker date="1431622929000" expanded="true" signature="357:461" placeholder="INSERT INTO ..." />
+            <marker date="1432623345000" expanded="true" signature="357:461" placeholder="INSERT INTO ..." />
           </folding>
         </state>
       </provider>
@@ -784,10 +846,16 @@
           <caret line="19" column="0" selection-start-line="19" selection-start-column="0" selection-end-line="19" selection-end-column="0" />
           <folding>
             <element signature="imports" expanded="true" />
-            <marker date="1431625667000" expanded="true" signature="291:315" placeholder="SELECT * FRO..Book..." />
-            <marker date="1431625667000" expanded="true" signature="912:1022" placeholder="SELECT avg(F..Feedback..." />
-            <marker date="1431625667000" expanded="true" signature="998:1022" placeholder="SELECT * FRO..Book..." />
-            <marker date="1431625667000" expanded="true" signature="1520:1669" placeholder="SELECT avg(F..Feedback..." />
+            <marker date="1432626032000" expanded="true" signature="432:456" placeholder="SELECT * FRO..Book..." />
+            <marker date="1432626032000" expanded="true" signature="1236:1362" placeholder="SELECT avg(F..Feedback..." />
+            <marker date="1432626032000" expanded="true" signature="1330:1362" placeholder="SELECT * FRO..Book..." />
+            <marker date="1432626032000" expanded="true" signature="1992:2090" placeholder="SELECT avg(F..Feedback..." />
+            <marker date="1432626032000" expanded="true" signature="1992:2294" placeholder="SELECT avg(F..Feedback..." />
+            <marker date="1432626032000" expanded="true" signature="2114:2146" placeholder="SELECT login..." />
+            <marker date="1432626032000" expanded="true" signature="2114:2186" placeholder="SELECT login..WHERE..." />
+            <marker date="1432626032000" expanded="true" signature="2114:2189" placeholder="SELECT login..." />
+            <marker date="1432626032000" expanded="true" signature="2114:2294" placeholder="SELECT missi..." />
+            <marker date="1432626032000" expanded="true" signature="2267:2294" placeholder="SELECT ISBN ..Book..." />
           </folding>
         </state>
       </provider>
@@ -819,19 +887,20 @@
           <caret line="41" column="59" selection-start-line="41" selection-start-column="32" selection-end-line="41" selection-end-column="32" />
           <folding>
             <element signature="imports" expanded="true" />
-            <marker date="1432238201000" expanded="true" signature="394:430" placeholder="SELECT * fro..Book..." />
-            <marker date="1432238201000" expanded="true" signature="394:431" placeholder="SELECT * fro..Book..." />
-            <marker date="1432238201000" expanded="true" signature="394:442" placeholder="SELECT * fro..Book..." />
-            <marker date="1432238201000" expanded="true" signature="793:820" placeholder="SELECT * FRO..Orders..." />
-            <marker date="1432238201000" expanded="true" signature="793:847" placeholder="SELECT * FRO..Orders..." />
-            <marker date="1432238201000" expanded="true" signature="793:848" placeholder="SELECT * FRO..Orders..." />
-            <marker date="1432238201000" expanded="true" signature="793:876" placeholder="SELECT * FRO..Orders..." />
-            <marker date="1432238201000" expanded="true" signature="793:877" placeholder="SELECT * FRO..Orders..." />
-            <marker date="1432238201000" expanded="true" signature="793:904" placeholder="SELECT * FRO..Orders..." />
-            <marker date="1432238201000" expanded="true" signature="793:905" placeholder="SELECT * FRO..Orders..." />
-            <marker date="1432238201000" expanded="true" signature="793:909" placeholder="SELECT * FRO..Orders..." />
-            <marker date="1432238201000" expanded="true" signature="1035:1061" placeholder="INSERT INTO ..." />
-            <marker date="1432238201000" expanded="true" signature="1431:1578" placeholder="UPDATE Order..." />
+            <marker date="1432601968000" expanded="true" signature="394:430" placeholder="SELECT * fro..Book..." />
+            <marker date="1432601968000" expanded="true" signature="394:431" placeholder="SELECT * fro..Book..." />
+            <marker date="1432601968000" expanded="true" signature="394:442" placeholder="SELECT * fro..Book..." />
+            <marker date="1432601968000" expanded="true" signature="793:820" placeholder="SELECT * FRO..Orders..." />
+            <marker date="1432601968000" expanded="true" signature="793:847" placeholder="SELECT * FRO..Orders..." />
+            <marker date="1432601968000" expanded="true" signature="793:848" placeholder="SELECT * FRO..Orders..." />
+            <marker date="1432601968000" expanded="true" signature="793:867" placeholder="SELECT * FRO..Orders..." />
+            <marker date="1432601968000" expanded="true" signature="793:902" placeholder="SELECT * FRO..Orders..." />
+            <marker date="1432601968000" expanded="true" signature="793:903" placeholder="SELECT * FRO..Orders..." />
+            <marker date="1432601968000" expanded="true" signature="793:956" placeholder="SELECT * FRO..Orders..." />
+            <marker date="1432601968000" expanded="true" signature="793:957" placeholder="SELECT * FRO..Orders..." />
+            <marker date="1432601968000" expanded="true" signature="793:961" placeholder="SELECT * FRO..Orders..." />
+            <marker date="1432601968000" expanded="true" signature="1132:1158" placeholder="INSERT INTO ..." />
+            <marker date="1432601968000" expanded="true" signature="1528:1675" placeholder="UPDATE Order..." />
           </folding>
         </state>
       </provider>
@@ -853,12 +922,12 @@
           <caret line="19" column="0" selection-start-line="19" selection-start-column="0" selection-end-line="19" selection-end-column="0" />
           <folding>
             <element signature="imports" expanded="true" />
-            <marker date="1431621706000" expanded="true" signature="359:390" placeholder="UPDATE Book ..." />
-            <marker date="1431621706000" expanded="true" signature="359:391" placeholder="UPDATE Book ..." />
-            <marker date="1431621706000" expanded="true" signature="359:441" placeholder="UPDATE Book ..." />
-            <marker date="1431621706000" expanded="true" signature="359:480" placeholder="UPDATE Book ..." />
-            <marker date="1431621706000" expanded="true" signature="359:481" placeholder="UPDATE Book ..." />
-            <marker date="1431621706000" expanded="true" signature="359:506" placeholder="UPDATE Book ..." />
+            <marker date="1432621769000" expanded="true" signature="359:390" placeholder="UPDATE Book ..." />
+            <marker date="1432621769000" expanded="true" signature="359:391" placeholder="UPDATE Book ..." />
+            <marker date="1432621769000" expanded="true" signature="359:441" placeholder="UPDATE Book ..." />
+            <marker date="1432621769000" expanded="true" signature="359:481" placeholder="UPDATE Book ..." />
+            <marker date="1432621769000" expanded="true" signature="359:482" placeholder="UPDATE Book ..." />
+            <marker date="1432621769000" expanded="true" signature="359:507" placeholder="UPDATE Book ..." />
           </folding>
         </state>
       </provider>
@@ -869,11 +938,14 @@
           <caret line="34" column="30" selection-start-line="34" selection-start-column="20" selection-end-line="34" selection-end-column="20" />
           <folding>
             <element signature="imports" expanded="true" />
-            <marker date="1432235752000" expanded="true" signature="390:425" placeholder="SELECT * fro..Feedback..." />
-            <marker date="1432235752000" expanded="true" signature="390:426" placeholder="SELECT * fro..Feedback..." />
-            <marker date="1432235752000" expanded="true" signature="390:467" placeholder="SELECT * fro..Feedback..." />
-            <marker date="1432235752000" expanded="true" signature="390:468" placeholder="SELECT * fro..Feedback..." />
-            <marker date="1432235752000" expanded="true" signature="664:692" placeholder="INSERT INTO ..." />
+            <marker date="1432622527000" expanded="true" signature="390:454" placeholder="SELECT * fro..Feedback..." />
+            <marker date="1432622527000" expanded="true" signature="390:455" placeholder="SELECT * fro..Feedback..." />
+            <marker date="1432622527000" expanded="true" signature="390:471" placeholder="SELECT * fro..Feedback..." />
+            <marker date="1432622527000" expanded="true" signature="390:472" placeholder="SELECT * fro..Feedback..." />
+            <marker date="1432622527000" expanded="true" signature="390:519" placeholder="SELECT * fro..Feedback..." />
+            <marker date="1432622527000" expanded="true" signature="390:520" placeholder="SELECT * fro..Feedback..." />
+            <marker date="1432622527000" expanded="true" signature="739:768" placeholder="SELECT COUNT..Feedback..." />
+            <marker date="1432622527000" expanded="true" signature="1002:1030" placeholder="INSERT INTO ..." />
           </folding>
         </state>
       </provider>
@@ -884,11 +956,12 @@
           <caret line="22" column="46" selection-start-line="22" selection-start-column="0" selection-end-line="22" selection-end-column="0" />
           <folding>
             <element signature="imports" expanded="true" />
-            <marker date="1431622660000" expanded="true" signature="375:408" placeholder="SELECT * FRO..Feedback..." />
-            <marker date="1431622660000" expanded="true" signature="375:409" placeholder="SELECT * FRO..Feedback..." />
-            <marker date="1431622660000" expanded="true" signature="375:464" placeholder="SELECT * FRO..Feedback..." />
-            <marker date="1431622660000" expanded="true" signature="375:465" placeholder="SELECT * FRO..Feedback..." />
-            <marker date="1431622660000" expanded="true" signature="660:687" placeholder="INSERT INTO ..." />
+            <marker date="1432623092000" expanded="true" signature="392:434" placeholder="SELECT * FRO..Feedback..." />
+            <marker date="1432623092000" expanded="true" signature="392:435" placeholder="SELECT * FRO..Feedback..." />
+            <marker date="1432623092000" expanded="true" signature="392:482" placeholder="SELECT * FRO..Feedback..." />
+            <marker date="1432623092000" expanded="true" signature="392:525" placeholder="SELECT * FRO..Feedback..." />
+            <marker date="1432623092000" expanded="true" signature="392:526" placeholder="SELECT * FRO..Feedback..." />
+            <marker date="1432623092000" expanded="true" signature="766:793" placeholder="INSERT INTO ..." />
           </folding>
         </state>
       </provider>
@@ -899,7 +972,7 @@
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding>
             <element signature="imports" expanded="true" />
-            <marker date="1431622929000" expanded="true" signature="357:461" placeholder="INSERT INTO ..." />
+            <marker date="1432623345000" expanded="true" signature="357:461" placeholder="INSERT INTO ..." />
           </folding>
         </state>
       </provider>
@@ -910,10 +983,16 @@
           <caret line="19" column="0" selection-start-line="19" selection-start-column="0" selection-end-line="19" selection-end-column="0" />
           <folding>
             <element signature="imports" expanded="true" />
-            <marker date="1431625667000" expanded="true" signature="291:315" placeholder="SELECT * FRO..Book..." />
-            <marker date="1431625667000" expanded="true" signature="912:1022" placeholder="SELECT avg(F..Feedback..." />
-            <marker date="1431625667000" expanded="true" signature="998:1022" placeholder="SELECT * FRO..Book..." />
-            <marker date="1431625667000" expanded="true" signature="1520:1669" placeholder="SELECT avg(F..Feedback..." />
+            <marker date="1432626032000" expanded="true" signature="432:456" placeholder="SELECT * FRO..Book..." />
+            <marker date="1432626032000" expanded="true" signature="1236:1362" placeholder="SELECT avg(F..Feedback..." />
+            <marker date="1432626032000" expanded="true" signature="1330:1362" placeholder="SELECT * FRO..Book..." />
+            <marker date="1432626032000" expanded="true" signature="1992:2090" placeholder="SELECT avg(F..Feedback..." />
+            <marker date="1432626032000" expanded="true" signature="1992:2294" placeholder="SELECT avg(F..Feedback..." />
+            <marker date="1432626032000" expanded="true" signature="2114:2146" placeholder="SELECT login..." />
+            <marker date="1432626032000" expanded="true" signature="2114:2186" placeholder="SELECT login..WHERE..." />
+            <marker date="1432626032000" expanded="true" signature="2114:2189" placeholder="SELECT login..." />
+            <marker date="1432626032000" expanded="true" signature="2114:2294" placeholder="SELECT missi..." />
+            <marker date="1432626032000" expanded="true" signature="2267:2294" placeholder="SELECT ISBN ..Book..." />
           </folding>
         </state>
       </provider>
@@ -945,19 +1024,20 @@
           <caret line="17" column="97" selection-start-line="17" selection-start-column="97" selection-end-line="17" selection-end-column="97" />
           <folding>
             <element signature="imports" expanded="true" />
-            <marker date="1432238201000" expanded="true" signature="394:430" placeholder="SELECT * fro..Book..." />
-            <marker date="1432238201000" expanded="true" signature="394:431" placeholder="SELECT * fro..Book..." />
-            <marker date="1432238201000" expanded="true" signature="394:442" placeholder="SELECT * fro..Book..." />
-            <marker date="1432238201000" expanded="true" signature="793:820" placeholder="SELECT * FRO..Orders..." />
-            <marker date="1432238201000" expanded="true" signature="793:847" placeholder="SELECT * FRO..Orders..." />
-            <marker date="1432238201000" expanded="true" signature="793:848" placeholder="SELECT * FRO..Orders..." />
-            <marker date="1432238201000" expanded="true" signature="793:876" placeholder="SELECT * FRO..Orders..." />
-            <marker date="1432238201000" expanded="true" signature="793:877" placeholder="SELECT * FRO..Orders..." />
-            <marker date="1432238201000" expanded="true" signature="793:904" placeholder="SELECT * FRO..Orders..." />
-            <marker date="1432238201000" expanded="true" signature="793:905" placeholder="SELECT * FRO..Orders..." />
-            <marker date="1432238201000" expanded="true" signature="793:909" placeholder="SELECT * FRO..Orders..." />
-            <marker date="1432238201000" expanded="true" signature="1035:1061" placeholder="INSERT INTO ..." />
-            <marker date="1432238201000" expanded="true" signature="1431:1578" placeholder="UPDATE Order..." />
+            <marker date="1432601968000" expanded="true" signature="394:430" placeholder="SELECT * fro..Book..." />
+            <marker date="1432601968000" expanded="true" signature="394:431" placeholder="SELECT * fro..Book..." />
+            <marker date="1432601968000" expanded="true" signature="394:442" placeholder="SELECT * fro..Book..." />
+            <marker date="1432601968000" expanded="true" signature="793:820" placeholder="SELECT * FRO..Orders..." />
+            <marker date="1432601968000" expanded="true" signature="793:847" placeholder="SELECT * FRO..Orders..." />
+            <marker date="1432601968000" expanded="true" signature="793:848" placeholder="SELECT * FRO..Orders..." />
+            <marker date="1432601968000" expanded="true" signature="793:867" placeholder="SELECT * FRO..Orders..." />
+            <marker date="1432601968000" expanded="true" signature="793:902" placeholder="SELECT * FRO..Orders..." />
+            <marker date="1432601968000" expanded="true" signature="793:903" placeholder="SELECT * FRO..Orders..." />
+            <marker date="1432601968000" expanded="true" signature="793:956" placeholder="SELECT * FRO..Orders..." />
+            <marker date="1432601968000" expanded="true" signature="793:957" placeholder="SELECT * FRO..Orders..." />
+            <marker date="1432601968000" expanded="true" signature="793:961" placeholder="SELECT * FRO..Orders..." />
+            <marker date="1432601968000" expanded="true" signature="1132:1158" placeholder="INSERT INTO ..." />
+            <marker date="1432601968000" expanded="true" signature="1528:1675" placeholder="UPDATE Order..." />
           </folding>
         </state>
       </provider>
@@ -979,12 +1059,12 @@
           <caret line="19" column="0" selection-start-line="19" selection-start-column="0" selection-end-line="19" selection-end-column="0" />
           <folding>
             <element signature="imports" expanded="true" />
-            <marker date="1431621706000" expanded="true" signature="359:390" placeholder="UPDATE Book ..." />
-            <marker date="1431621706000" expanded="true" signature="359:391" placeholder="UPDATE Book ..." />
-            <marker date="1431621706000" expanded="true" signature="359:441" placeholder="UPDATE Book ..." />
-            <marker date="1431621706000" expanded="true" signature="359:480" placeholder="UPDATE Book ..." />
-            <marker date="1431621706000" expanded="true" signature="359:481" placeholder="UPDATE Book ..." />
-            <marker date="1431621706000" expanded="true" signature="359:506" placeholder="UPDATE Book ..." />
+            <marker date="1432621769000" expanded="true" signature="359:390" placeholder="UPDATE Book ..." />
+            <marker date="1432621769000" expanded="true" signature="359:391" placeholder="UPDATE Book ..." />
+            <marker date="1432621769000" expanded="true" signature="359:441" placeholder="UPDATE Book ..." />
+            <marker date="1432621769000" expanded="true" signature="359:481" placeholder="UPDATE Book ..." />
+            <marker date="1432621769000" expanded="true" signature="359:482" placeholder="UPDATE Book ..." />
+            <marker date="1432621769000" expanded="true" signature="359:507" placeholder="UPDATE Book ..." />
           </folding>
         </state>
       </provider>
@@ -995,11 +1075,14 @@
           <caret line="24" column="40" selection-start-line="24" selection-start-column="40" selection-end-line="24" selection-end-column="40" />
           <folding>
             <element signature="imports" expanded="true" />
-            <marker date="1432235752000" expanded="true" signature="390:425" placeholder="SELECT * fro..Feedback..." />
-            <marker date="1432235752000" expanded="true" signature="390:426" placeholder="SELECT * fro..Feedback..." />
-            <marker date="1432235752000" expanded="true" signature="390:467" placeholder="SELECT * fro..Feedback..." />
-            <marker date="1432235752000" expanded="true" signature="390:468" placeholder="SELECT * fro..Feedback..." />
-            <marker date="1432235752000" expanded="true" signature="664:692" placeholder="INSERT INTO ..." />
+            <marker date="1432622527000" expanded="true" signature="390:454" placeholder="SELECT * fro..Feedback..." />
+            <marker date="1432622527000" expanded="true" signature="390:455" placeholder="SELECT * fro..Feedback..." />
+            <marker date="1432622527000" expanded="true" signature="390:471" placeholder="SELECT * fro..Feedback..." />
+            <marker date="1432622527000" expanded="true" signature="390:472" placeholder="SELECT * fro..Feedback..." />
+            <marker date="1432622527000" expanded="true" signature="390:519" placeholder="SELECT * fro..Feedback..." />
+            <marker date="1432622527000" expanded="true" signature="390:520" placeholder="SELECT * fro..Feedback..." />
+            <marker date="1432622527000" expanded="true" signature="739:768" placeholder="SELECT COUNT..Feedback..." />
+            <marker date="1432622527000" expanded="true" signature="1002:1030" placeholder="INSERT INTO ..." />
           </folding>
         </state>
       </provider>
@@ -1010,11 +1093,12 @@
           <caret line="19" column="27" selection-start-line="19" selection-start-column="27" selection-end-line="19" selection-end-column="27" />
           <folding>
             <element signature="imports" expanded="true" />
-            <marker date="1431622660000" expanded="true" signature="375:408" placeholder="SELECT * FRO..Feedback..." />
-            <marker date="1431622660000" expanded="true" signature="375:409" placeholder="SELECT * FRO..Feedback..." />
-            <marker date="1431622660000" expanded="true" signature="375:464" placeholder="SELECT * FRO..Feedback..." />
-            <marker date="1431622660000" expanded="true" signature="375:465" placeholder="SELECT * FRO..Feedback..." />
-            <marker date="1431622660000" expanded="true" signature="660:687" placeholder="INSERT INTO ..." />
+            <marker date="1432623092000" expanded="true" signature="392:434" placeholder="SELECT * FRO..Feedback..." />
+            <marker date="1432623092000" expanded="true" signature="392:435" placeholder="SELECT * FRO..Feedback..." />
+            <marker date="1432623092000" expanded="true" signature="392:482" placeholder="SELECT * FRO..Feedback..." />
+            <marker date="1432623092000" expanded="true" signature="392:525" placeholder="SELECT * FRO..Feedback..." />
+            <marker date="1432623092000" expanded="true" signature="392:526" placeholder="SELECT * FRO..Feedback..." />
+            <marker date="1432623092000" expanded="true" signature="766:793" placeholder="INSERT INTO ..." />
           </folding>
         </state>
       </provider>
@@ -1025,7 +1109,7 @@
           <caret line="14" column="9" selection-start-line="14" selection-start-column="9" selection-end-line="14" selection-end-column="9" />
           <folding>
             <element signature="imports" expanded="true" />
-            <marker date="1431622929000" expanded="true" signature="357:461" placeholder="INSERT INTO ..." />
+            <marker date="1432623345000" expanded="true" signature="357:461" placeholder="INSERT INTO ..." />
           </folding>
         </state>
       </provider>
@@ -1036,10 +1120,16 @@
           <caret line="19" column="0" selection-start-line="19" selection-start-column="0" selection-end-line="19" selection-end-column="0" />
           <folding>
             <element signature="imports" expanded="true" />
-            <marker date="1431625667000" expanded="true" signature="291:315" placeholder="SELECT * FRO..Book..." />
-            <marker date="1431625667000" expanded="true" signature="912:1022" placeholder="SELECT avg(F..Feedback..." />
-            <marker date="1431625667000" expanded="true" signature="998:1022" placeholder="SELECT * FRO..Book..." />
-            <marker date="1431625667000" expanded="true" signature="1520:1669" placeholder="SELECT avg(F..Feedback..." />
+            <marker date="1432626032000" expanded="true" signature="432:456" placeholder="SELECT * FRO..Book..." />
+            <marker date="1432626032000" expanded="true" signature="1236:1362" placeholder="SELECT avg(F..Feedback..." />
+            <marker date="1432626032000" expanded="true" signature="1330:1362" placeholder="SELECT * FRO..Book..." />
+            <marker date="1432626032000" expanded="true" signature="1992:2090" placeholder="SELECT avg(F..Feedback..." />
+            <marker date="1432626032000" expanded="true" signature="1992:2294" placeholder="SELECT avg(F..Feedback..." />
+            <marker date="1432626032000" expanded="true" signature="2114:2146" placeholder="SELECT login..." />
+            <marker date="1432626032000" expanded="true" signature="2114:2186" placeholder="SELECT login..WHERE..." />
+            <marker date="1432626032000" expanded="true" signature="2114:2189" placeholder="SELECT login..." />
+            <marker date="1432626032000" expanded="true" signature="2114:2294" placeholder="SELECT missi..." />
+            <marker date="1432626032000" expanded="true" signature="2267:2294" placeholder="SELECT ISBN ..Book..." />
           </folding>
         </state>
       </provider>
@@ -1071,19 +1161,20 @@
           <caret line="17" column="97" selection-start-line="17" selection-start-column="97" selection-end-line="17" selection-end-column="97" />
           <folding>
             <element signature="imports" expanded="true" />
-            <marker date="1432238201000" expanded="true" signature="394:430" placeholder="SELECT * fro..Book..." />
-            <marker date="1432238201000" expanded="true" signature="394:431" placeholder="SELECT * fro..Book..." />
-            <marker date="1432238201000" expanded="true" signature="394:442" placeholder="SELECT * fro..Book..." />
-            <marker date="1432238201000" expanded="true" signature="793:820" placeholder="SELECT * FRO..Orders..." />
-            <marker date="1432238201000" expanded="true" signature="793:847" placeholder="SELECT * FRO..Orders..." />
-            <marker date="1432238201000" expanded="true" signature="793:848" placeholder="SELECT * FRO..Orders..." />
-            <marker date="1432238201000" expanded="true" signature="793:876" placeholder="SELECT * FRO..Orders..." />
-            <marker date="1432238201000" expanded="true" signature="793:877" placeholder="SELECT * FRO..Orders..." />
-            <marker date="1432238201000" expanded="true" signature="793:904" placeholder="SELECT * FRO..Orders..." />
-            <marker date="1432238201000" expanded="true" signature="793:905" placeholder="SELECT * FRO..Orders..." />
-            <marker date="1432238201000" expanded="true" signature="793:909" placeholder="SELECT * FRO..Orders..." />
-            <marker date="1432238201000" expanded="true" signature="1035:1061" placeholder="INSERT INTO ..." />
-            <marker date="1432238201000" expanded="true" signature="1431:1578" placeholder="UPDATE Order..." />
+            <marker date="1432601968000" expanded="true" signature="394:430" placeholder="SELECT * fro..Book..." />
+            <marker date="1432601968000" expanded="true" signature="394:431" placeholder="SELECT * fro..Book..." />
+            <marker date="1432601968000" expanded="true" signature="394:442" placeholder="SELECT * fro..Book..." />
+            <marker date="1432601968000" expanded="true" signature="793:820" placeholder="SELECT * FRO..Orders..." />
+            <marker date="1432601968000" expanded="true" signature="793:847" placeholder="SELECT * FRO..Orders..." />
+            <marker date="1432601968000" expanded="true" signature="793:848" placeholder="SELECT * FRO..Orders..." />
+            <marker date="1432601968000" expanded="true" signature="793:867" placeholder="SELECT * FRO..Orders..." />
+            <marker date="1432601968000" expanded="true" signature="793:902" placeholder="SELECT * FRO..Orders..." />
+            <marker date="1432601968000" expanded="true" signature="793:903" placeholder="SELECT * FRO..Orders..." />
+            <marker date="1432601968000" expanded="true" signature="793:956" placeholder="SELECT * FRO..Orders..." />
+            <marker date="1432601968000" expanded="true" signature="793:957" placeholder="SELECT * FRO..Orders..." />
+            <marker date="1432601968000" expanded="true" signature="793:961" placeholder="SELECT * FRO..Orders..." />
+            <marker date="1432601968000" expanded="true" signature="1132:1158" placeholder="INSERT INTO ..." />
+            <marker date="1432601968000" expanded="true" signature="1528:1675" placeholder="UPDATE Order..." />
           </folding>
         </state>
       </provider>
@@ -1105,12 +1196,12 @@
           <caret line="19" column="0" selection-start-line="19" selection-start-column="0" selection-end-line="19" selection-end-column="0" />
           <folding>
             <element signature="imports" expanded="true" />
-            <marker date="1431621706000" expanded="true" signature="359:390" placeholder="UPDATE Book ..." />
-            <marker date="1431621706000" expanded="true" signature="359:391" placeholder="UPDATE Book ..." />
-            <marker date="1431621706000" expanded="true" signature="359:441" placeholder="UPDATE Book ..." />
-            <marker date="1431621706000" expanded="true" signature="359:480" placeholder="UPDATE Book ..." />
-            <marker date="1431621706000" expanded="true" signature="359:481" placeholder="UPDATE Book ..." />
-            <marker date="1431621706000" expanded="true" signature="359:506" placeholder="UPDATE Book ..." />
+            <marker date="1432621769000" expanded="true" signature="359:390" placeholder="UPDATE Book ..." />
+            <marker date="1432621769000" expanded="true" signature="359:391" placeholder="UPDATE Book ..." />
+            <marker date="1432621769000" expanded="true" signature="359:441" placeholder="UPDATE Book ..." />
+            <marker date="1432621769000" expanded="true" signature="359:481" placeholder="UPDATE Book ..." />
+            <marker date="1432621769000" expanded="true" signature="359:482" placeholder="UPDATE Book ..." />
+            <marker date="1432621769000" expanded="true" signature="359:507" placeholder="UPDATE Book ..." />
           </folding>
         </state>
       </provider>
@@ -1121,11 +1212,14 @@
           <caret line="26" column="34" selection-start-line="26" selection-start-column="33" selection-end-line="26" selection-end-column="34" />
           <folding>
             <element signature="imports" expanded="true" />
-            <marker date="1432235752000" expanded="true" signature="390:425" placeholder="SELECT * fro..Feedback..." />
-            <marker date="1432235752000" expanded="true" signature="390:426" placeholder="SELECT * fro..Feedback..." />
-            <marker date="1432235752000" expanded="true" signature="390:467" placeholder="SELECT * fro..Feedback..." />
-            <marker date="1432235752000" expanded="true" signature="390:468" placeholder="SELECT * fro..Feedback..." />
-            <marker date="1432235752000" expanded="true" signature="664:692" placeholder="INSERT INTO ..." />
+            <marker date="1432622527000" expanded="true" signature="390:454" placeholder="SELECT * fro..Feedback..." />
+            <marker date="1432622527000" expanded="true" signature="390:455" placeholder="SELECT * fro..Feedback..." />
+            <marker date="1432622527000" expanded="true" signature="390:471" placeholder="SELECT * fro..Feedback..." />
+            <marker date="1432622527000" expanded="true" signature="390:472" placeholder="SELECT * fro..Feedback..." />
+            <marker date="1432622527000" expanded="true" signature="390:519" placeholder="SELECT * fro..Feedback..." />
+            <marker date="1432622527000" expanded="true" signature="390:520" placeholder="SELECT * fro..Feedback..." />
+            <marker date="1432622527000" expanded="true" signature="739:768" placeholder="SELECT COUNT..Feedback..." />
+            <marker date="1432622527000" expanded="true" signature="1002:1030" placeholder="INSERT INTO ..." />
           </folding>
         </state>
       </provider>
@@ -1136,11 +1230,12 @@
           <caret line="19" column="27" selection-start-line="19" selection-start-column="27" selection-end-line="19" selection-end-column="27" />
           <folding>
             <element signature="imports" expanded="true" />
-            <marker date="1431622660000" expanded="true" signature="375:408" placeholder="SELECT * FRO..Feedback..." />
-            <marker date="1431622660000" expanded="true" signature="375:409" placeholder="SELECT * FRO..Feedback..." />
-            <marker date="1431622660000" expanded="true" signature="375:464" placeholder="SELECT * FRO..Feedback..." />
-            <marker date="1431622660000" expanded="true" signature="375:465" placeholder="SELECT * FRO..Feedback..." />
-            <marker date="1431622660000" expanded="true" signature="660:687" placeholder="INSERT INTO ..." />
+            <marker date="1432623092000" expanded="true" signature="392:434" placeholder="SELECT * FRO..Feedback..." />
+            <marker date="1432623092000" expanded="true" signature="392:435" placeholder="SELECT * FRO..Feedback..." />
+            <marker date="1432623092000" expanded="true" signature="392:482" placeholder="SELECT * FRO..Feedback..." />
+            <marker date="1432623092000" expanded="true" signature="392:525" placeholder="SELECT * FRO..Feedback..." />
+            <marker date="1432623092000" expanded="true" signature="392:526" placeholder="SELECT * FRO..Feedback..." />
+            <marker date="1432623092000" expanded="true" signature="766:793" placeholder="INSERT INTO ..." />
           </folding>
         </state>
       </provider>
@@ -1151,7 +1246,7 @@
           <caret line="14" column="9" selection-start-line="14" selection-start-column="9" selection-end-line="14" selection-end-column="9" />
           <folding>
             <element signature="imports" expanded="true" />
-            <marker date="1431622929000" expanded="true" signature="357:461" placeholder="INSERT INTO ..." />
+            <marker date="1432623345000" expanded="true" signature="357:461" placeholder="INSERT INTO ..." />
           </folding>
         </state>
       </provider>
@@ -1162,10 +1257,16 @@
           <caret line="19" column="36" selection-start-line="19" selection-start-column="0" selection-end-line="19" selection-end-column="0" />
           <folding>
             <element signature="imports" expanded="true" />
-            <marker date="1431625667000" expanded="true" signature="291:315" placeholder="SELECT * FRO..Book..." />
-            <marker date="1431625667000" expanded="true" signature="912:1022" placeholder="SELECT avg(F..Feedback..." />
-            <marker date="1431625667000" expanded="true" signature="998:1022" placeholder="SELECT * FRO..Book..." />
-            <marker date="1431625667000" expanded="true" signature="1520:1669" placeholder="SELECT avg(F..Feedback..." />
+            <marker date="1432626032000" expanded="true" signature="432:456" placeholder="SELECT * FRO..Book..." />
+            <marker date="1432626032000" expanded="true" signature="1236:1362" placeholder="SELECT avg(F..Feedback..." />
+            <marker date="1432626032000" expanded="true" signature="1330:1362" placeholder="SELECT * FRO..Book..." />
+            <marker date="1432626032000" expanded="true" signature="1992:2090" placeholder="SELECT avg(F..Feedback..." />
+            <marker date="1432626032000" expanded="true" signature="1992:2294" placeholder="SELECT avg(F..Feedback..." />
+            <marker date="1432626032000" expanded="true" signature="2114:2146" placeholder="SELECT login..." />
+            <marker date="1432626032000" expanded="true" signature="2114:2186" placeholder="SELECT login..WHERE..." />
+            <marker date="1432626032000" expanded="true" signature="2114:2189" placeholder="SELECT login..." />
+            <marker date="1432626032000" expanded="true" signature="2114:2294" placeholder="SELECT missi..." />
+            <marker date="1432626032000" expanded="true" signature="2267:2294" placeholder="SELECT ISBN ..Book..." />
           </folding>
         </state>
       </provider>
@@ -1197,19 +1298,20 @@
           <caret line="17" column="97" selection-start-line="17" selection-start-column="97" selection-end-line="17" selection-end-column="97" />
           <folding>
             <element signature="imports" expanded="true" />
-            <marker date="1432238201000" expanded="true" signature="394:430" placeholder="SELECT * fro..Book..." />
-            <marker date="1432238201000" expanded="true" signature="394:431" placeholder="SELECT * fro..Book..." />
-            <marker date="1432238201000" expanded="true" signature="394:442" placeholder="SELECT * fro..Book..." />
-            <marker date="1432238201000" expanded="true" signature="793:820" placeholder="SELECT * FRO..Orders..." />
-            <marker date="1432238201000" expanded="true" signature="793:847" placeholder="SELECT * FRO..Orders..." />
-            <marker date="1432238201000" expanded="true" signature="793:848" placeholder="SELECT * FRO..Orders..." />
-            <marker date="1432238201000" expanded="true" signature="793:876" placeholder="SELECT * FRO..Orders..." />
-            <marker date="1432238201000" expanded="true" signature="793:877" placeholder="SELECT * FRO..Orders..." />
-            <marker date="1432238201000" expanded="true" signature="793:904" placeholder="SELECT * FRO..Orders..." />
-            <marker date="1432238201000" expanded="true" signature="793:905" placeholder="SELECT * FRO..Orders..." />
-            <marker date="1432238201000" expanded="true" signature="793:909" placeholder="SELECT * FRO..Orders..." />
-            <marker date="1432238201000" expanded="true" signature="1035:1061" placeholder="INSERT INTO ..." />
-            <marker date="1432238201000" expanded="true" signature="1431:1578" placeholder="UPDATE Order..." />
+            <marker date="1432601968000" expanded="true" signature="394:430" placeholder="SELECT * fro..Book..." />
+            <marker date="1432601968000" expanded="true" signature="394:431" placeholder="SELECT * fro..Book..." />
+            <marker date="1432601968000" expanded="true" signature="394:442" placeholder="SELECT * fro..Book..." />
+            <marker date="1432601968000" expanded="true" signature="793:820" placeholder="SELECT * FRO..Orders..." />
+            <marker date="1432601968000" expanded="true" signature="793:847" placeholder="SELECT * FRO..Orders..." />
+            <marker date="1432601968000" expanded="true" signature="793:848" placeholder="SELECT * FRO..Orders..." />
+            <marker date="1432601968000" expanded="true" signature="793:867" placeholder="SELECT * FRO..Orders..." />
+            <marker date="1432601968000" expanded="true" signature="793:902" placeholder="SELECT * FRO..Orders..." />
+            <marker date="1432601968000" expanded="true" signature="793:903" placeholder="SELECT * FRO..Orders..." />
+            <marker date="1432601968000" expanded="true" signature="793:956" placeholder="SELECT * FRO..Orders..." />
+            <marker date="1432601968000" expanded="true" signature="793:957" placeholder="SELECT * FRO..Orders..." />
+            <marker date="1432601968000" expanded="true" signature="793:961" placeholder="SELECT * FRO..Orders..." />
+            <marker date="1432601968000" expanded="true" signature="1132:1158" placeholder="INSERT INTO ..." />
+            <marker date="1432601968000" expanded="true" signature="1528:1675" placeholder="UPDATE Order..." />
           </folding>
         </state>
       </provider>
@@ -1231,12 +1333,12 @@
           <caret line="19" column="8" selection-start-line="19" selection-start-column="0" selection-end-line="19" selection-end-column="0" />
           <folding>
             <element signature="imports" expanded="true" />
-            <marker date="1431621706000" expanded="true" signature="359:390" placeholder="UPDATE Book ..." />
-            <marker date="1431621706000" expanded="true" signature="359:391" placeholder="UPDATE Book ..." />
-            <marker date="1431621706000" expanded="true" signature="359:441" placeholder="UPDATE Book ..." />
-            <marker date="1431621706000" expanded="true" signature="359:480" placeholder="UPDATE Book ..." />
-            <marker date="1431621706000" expanded="true" signature="359:481" placeholder="UPDATE Book ..." />
-            <marker date="1431621706000" expanded="true" signature="359:506" placeholder="UPDATE Book ..." />
+            <marker date="1432621769000" expanded="true" signature="359:390" placeholder="UPDATE Book ..." />
+            <marker date="1432621769000" expanded="true" signature="359:391" placeholder="UPDATE Book ..." />
+            <marker date="1432621769000" expanded="true" signature="359:441" placeholder="UPDATE Book ..." />
+            <marker date="1432621769000" expanded="true" signature="359:481" placeholder="UPDATE Book ..." />
+            <marker date="1432621769000" expanded="true" signature="359:482" placeholder="UPDATE Book ..." />
+            <marker date="1432621769000" expanded="true" signature="359:507" placeholder="UPDATE Book ..." />
           </folding>
         </state>
       </provider>
@@ -1247,11 +1349,14 @@
           <caret line="22" column="25" selection-start-line="22" selection-start-column="9" selection-end-line="22" selection-end-column="9" />
           <folding>
             <element signature="imports" expanded="true" />
-            <marker date="1432235752000" expanded="true" signature="390:425" placeholder="SELECT * fro..Feedback..." />
-            <marker date="1432235752000" expanded="true" signature="390:426" placeholder="SELECT * fro..Feedback..." />
-            <marker date="1432235752000" expanded="true" signature="390:467" placeholder="SELECT * fro..Feedback..." />
-            <marker date="1432235752000" expanded="true" signature="390:468" placeholder="SELECT * fro..Feedback..." />
-            <marker date="1432235752000" expanded="true" signature="664:692" placeholder="INSERT INTO ..." />
+            <marker date="1432622527000" expanded="true" signature="390:454" placeholder="SELECT * fro..Feedback..." />
+            <marker date="1432622527000" expanded="true" signature="390:455" placeholder="SELECT * fro..Feedback..." />
+            <marker date="1432622527000" expanded="true" signature="390:471" placeholder="SELECT * fro..Feedback..." />
+            <marker date="1432622527000" expanded="true" signature="390:472" placeholder="SELECT * fro..Feedback..." />
+            <marker date="1432622527000" expanded="true" signature="390:519" placeholder="SELECT * fro..Feedback..." />
+            <marker date="1432622527000" expanded="true" signature="390:520" placeholder="SELECT * fro..Feedback..." />
+            <marker date="1432622527000" expanded="true" signature="739:768" placeholder="SELECT COUNT..Feedback..." />
+            <marker date="1432622527000" expanded="true" signature="1002:1030" placeholder="INSERT INTO ..." />
           </folding>
         </state>
       </provider>
@@ -1262,11 +1367,12 @@
           <caret line="19" column="35" selection-start-line="19" selection-start-column="27" selection-end-line="19" selection-end-column="27" />
           <folding>
             <element signature="imports" expanded="true" />
-            <marker date="1431622660000" expanded="true" signature="375:408" placeholder="SELECT * FRO..Feedback..." />
-            <marker date="1431622660000" expanded="true" signature="375:409" placeholder="SELECT * FRO..Feedback..." />
-            <marker date="1431622660000" expanded="true" signature="375:464" placeholder="SELECT * FRO..Feedback..." />
-            <marker date="1431622660000" expanded="true" signature="375:465" placeholder="SELECT * FRO..Feedback..." />
-            <marker date="1431622660000" expanded="true" signature="660:687" placeholder="INSERT INTO ..." />
+            <marker date="1432623092000" expanded="true" signature="392:434" placeholder="SELECT * FRO..Feedback..." />
+            <marker date="1432623092000" expanded="true" signature="392:435" placeholder="SELECT * FRO..Feedback..." />
+            <marker date="1432623092000" expanded="true" signature="392:482" placeholder="SELECT * FRO..Feedback..." />
+            <marker date="1432623092000" expanded="true" signature="392:525" placeholder="SELECT * FRO..Feedback..." />
+            <marker date="1432623092000" expanded="true" signature="392:526" placeholder="SELECT * FRO..Feedback..." />
+            <marker date="1432623092000" expanded="true" signature="766:793" placeholder="INSERT INTO ..." />
           </folding>
         </state>
       </provider>
@@ -1277,7 +1383,7 @@
           <caret line="14" column="54" selection-start-line="14" selection-start-column="9" selection-end-line="14" selection-end-column="9" />
           <folding>
             <element signature="imports" expanded="true" />
-            <marker date="1431622929000" expanded="true" signature="357:461" placeholder="INSERT INTO ..." />
+            <marker date="1432623345000" expanded="true" signature="357:461" placeholder="INSERT INTO ..." />
           </folding>
         </state>
       </provider>
@@ -1288,10 +1394,16 @@
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding>
             <element signature="imports" expanded="true" />
-            <marker date="1431625667000" expanded="true" signature="291:315" placeholder="SELECT * FRO..Book..." />
-            <marker date="1431625667000" expanded="true" signature="912:1022" placeholder="SELECT avg(F..Feedback..." />
-            <marker date="1431625667000" expanded="true" signature="998:1022" placeholder="SELECT * FRO..Book..." />
-            <marker date="1431625667000" expanded="true" signature="1520:1669" placeholder="SELECT avg(F..Feedback..." />
+            <marker date="1432626032000" expanded="true" signature="432:456" placeholder="SELECT * FRO..Book..." />
+            <marker date="1432626032000" expanded="true" signature="1236:1362" placeholder="SELECT avg(F..Feedback..." />
+            <marker date="1432626032000" expanded="true" signature="1330:1362" placeholder="SELECT * FRO..Book..." />
+            <marker date="1432626032000" expanded="true" signature="1992:2090" placeholder="SELECT avg(F..Feedback..." />
+            <marker date="1432626032000" expanded="true" signature="1992:2294" placeholder="SELECT avg(F..Feedback..." />
+            <marker date="1432626032000" expanded="true" signature="2114:2146" placeholder="SELECT login..." />
+            <marker date="1432626032000" expanded="true" signature="2114:2186" placeholder="SELECT login..WHERE..." />
+            <marker date="1432626032000" expanded="true" signature="2114:2189" placeholder="SELECT login..." />
+            <marker date="1432626032000" expanded="true" signature="2114:2294" placeholder="SELECT missi..." />
+            <marker date="1432626032000" expanded="true" signature="2267:2294" placeholder="SELECT ISBN ..Book..." />
           </folding>
         </state>
       </provider>
@@ -1311,17 +1423,47 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/bookstore/Usefulness_ratings.java">
+    <entry file="file://$PROJECT_DIR$/src/bookstore/Connector.java">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
-          <caret line="22" column="0" selection-start-line="22" selection-start-column="0" selection-end-line="22" selection-end-column="0" />
+          <caret line="8" column="12" selection-start-line="8" selection-start-column="12" selection-end-line="8" selection-end-column="12" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/bookstore/Registration.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="16" column="0" selection-start-line="16" selection-start-column="0" selection-end-line="16" selection-end-column="0" />
           <folding>
             <element signature="imports" expanded="true" />
-            <marker date="1431622660000" expanded="true" signature="375:408" placeholder="SELECT * FRO..Feedback..." />
-            <marker date="1431622660000" expanded="true" signature="375:409" placeholder="SELECT * FRO..Feedback..." />
-            <marker date="1431622660000" expanded="true" signature="375:464" placeholder="SELECT * FRO..Feedback..." />
-            <marker date="1431622660000" expanded="true" signature="375:465" placeholder="SELECT * FRO..Feedback..." />
-            <marker date="1431622660000" expanded="true" signature="660:687" placeholder="INSERT INTO ..." />
+            <marker date="1432568717000" expanded="true" signature="337:388" placeholder="select * fro..Customer..." />
+            <marker date="1432568717000" expanded="true" signature="337:401" placeholder="select * fro..Customer..." />
+            <marker date="1432568717000" expanded="true" signature="678:707" placeholder="INSERT INTO ..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/bookstore/Ordering.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="42" column="71" selection-start-line="42" selection-start-column="71" selection-end-line="42" selection-end-column="71" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <marker date="1432601968000" expanded="true" signature="394:430" placeholder="SELECT * fro..Book..." />
+            <marker date="1432601968000" expanded="true" signature="394:431" placeholder="SELECT * fro..Book..." />
+            <marker date="1432601968000" expanded="true" signature="394:442" placeholder="SELECT * fro..Book..." />
+            <marker date="1432601968000" expanded="true" signature="793:820" placeholder="SELECT * FRO..Orders..." />
+            <marker date="1432601968000" expanded="true" signature="793:847" placeholder="SELECT * FRO..Orders..." />
+            <marker date="1432601968000" expanded="true" signature="793:848" placeholder="SELECT * FRO..Orders..." />
+            <marker date="1432601968000" expanded="true" signature="793:867" placeholder="SELECT * FRO..Orders..." />
+            <marker date="1432601968000" expanded="true" signature="793:902" placeholder="SELECT * FRO..Orders..." />
+            <marker date="1432601968000" expanded="true" signature="793:903" placeholder="SELECT * FRO..Orders..." />
+            <marker date="1432601968000" expanded="true" signature="793:956" placeholder="SELECT * FRO..Orders..." />
+            <marker date="1432601968000" expanded="true" signature="793:957" placeholder="SELECT * FRO..Orders..." />
+            <marker date="1432601968000" expanded="true" signature="793:961" placeholder="SELECT * FRO..Orders..." />
+            <marker date="1432601968000" expanded="true" signature="1132:1158" placeholder="INSERT INTO ..." />
+            <marker date="1432601968000" expanded="true" signature="1528:1675" placeholder="UPDATE Order..." />
           </folding>
         </state>
       </provider>
@@ -1337,16 +1479,52 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/bookstore/Book_Browsing.java">
+    <entry file="file://$PROJECT_DIR$/src/bookstore/Arrive_of_copis.java">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
-          <caret line="19" column="0" selection-start-line="19" selection-start-column="0" selection-end-line="19" selection-end-column="0" />
+          <caret line="13" column="50" selection-start-line="13" selection-start-column="50" selection-end-line="13" selection-end-column="50" />
           <folding>
             <element signature="imports" expanded="true" />
-            <marker date="1431625667000" expanded="true" signature="291:315" placeholder="SELECT * FRO..Book..." />
-            <marker date="1431625667000" expanded="true" signature="912:1022" placeholder="SELECT avg(F..Feedback..." />
-            <marker date="1431625667000" expanded="true" signature="998:1022" placeholder="SELECT * FRO..Book..." />
-            <marker date="1431625667000" expanded="true" signature="1520:1669" placeholder="SELECT avg(F..Feedback..." />
+            <marker date="1432621769000" expanded="true" signature="359:390" placeholder="UPDATE Book ..." />
+            <marker date="1432621769000" expanded="true" signature="359:391" placeholder="UPDATE Book ..." />
+            <marker date="1432621769000" expanded="true" signature="359:441" placeholder="UPDATE Book ..." />
+            <marker date="1432621769000" expanded="true" signature="359:481" placeholder="UPDATE Book ..." />
+            <marker date="1432621769000" expanded="true" signature="359:482" placeholder="UPDATE Book ..." />
+            <marker date="1432621769000" expanded="true" signature="359:507" placeholder="UPDATE Book ..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/bookstore/Feedback_recordings.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="48" column="30" selection-start-line="48" selection-start-column="0" selection-end-line="48" selection-end-column="0" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <marker date="1432622527000" expanded="true" signature="390:454" placeholder="SELECT * fro..Feedback..." />
+            <marker date="1432622527000" expanded="true" signature="390:455" placeholder="SELECT * fro..Feedback..." />
+            <marker date="1432622527000" expanded="true" signature="390:471" placeholder="SELECT * fro..Feedback..." />
+            <marker date="1432622527000" expanded="true" signature="390:472" placeholder="SELECT * fro..Feedback..." />
+            <marker date="1432622527000" expanded="true" signature="390:519" placeholder="SELECT * fro..Feedback..." />
+            <marker date="1432622527000" expanded="true" signature="390:520" placeholder="SELECT * fro..Feedback..." />
+            <marker date="1432622527000" expanded="true" signature="739:768" placeholder="SELECT COUNT..Feedback..." />
+            <marker date="1432622527000" expanded="true" signature="1002:1030" placeholder="INSERT INTO ..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/bookstore/Usefulness_ratings.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="20" column="39" selection-start-line="20" selection-start-column="39" selection-end-line="20" selection-end-column="39" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <marker date="1432623092000" expanded="true" signature="392:434" placeholder="SELECT * FRO..Feedback..." />
+            <marker date="1432623092000" expanded="true" signature="392:435" placeholder="SELECT * FRO..Feedback..." />
+            <marker date="1432623092000" expanded="true" signature="392:482" placeholder="SELECT * FRO..Feedback..." />
+            <marker date="1432623092000" expanded="true" signature="392:525" placeholder="SELECT * FRO..Feedback..." />
+            <marker date="1432623092000" expanded="true" signature="392:526" placeholder="SELECT * FRO..Feedback..." />
+            <marker date="1432623092000" expanded="true" signature="766:793" placeholder="INSERT INTO ..." />
           </folding>
         </state>
       </provider>
@@ -1354,95 +1532,40 @@
     <entry file="file://$PROJECT_DIR$/src/bookstore/Trust_recordings.java">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
-          <caret line="8" column="13" selection-start-line="8" selection-start-column="13" selection-end-line="8" selection-end-column="13" />
+          <caret line="15" column="0" selection-start-line="15" selection-start-column="0" selection-end-line="15" selection-end-column="0" />
           <folding>
             <element signature="imports" expanded="true" />
-            <marker date="1431622929000" expanded="true" signature="357:461" placeholder="INSERT INTO ..." />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/bookstore/Arrive_of_copis.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="19" column="0" selection-start-line="19" selection-start-column="0" selection-end-line="19" selection-end-column="0" />
-          <folding>
-            <element signature="imports" expanded="true" />
-            <marker date="1431621706000" expanded="true" signature="359:390" placeholder="UPDATE Book ..." />
-            <marker date="1431621706000" expanded="true" signature="359:391" placeholder="UPDATE Book ..." />
-            <marker date="1431621706000" expanded="true" signature="359:441" placeholder="UPDATE Book ..." />
-            <marker date="1431621706000" expanded="true" signature="359:480" placeholder="UPDATE Book ..." />
-            <marker date="1431621706000" expanded="true" signature="359:481" placeholder="UPDATE Book ..." />
-            <marker date="1431621706000" expanded="true" signature="359:506" placeholder="UPDATE Book ..." />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/bookstore/Connector.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="8" column="12" selection-start-line="8" selection-start-column="12" selection-end-line="8" selection-end-column="12" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/bookstore/Feedback_recordings.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="34" column="20" selection-start-line="34" selection-start-column="20" selection-end-line="34" selection-end-column="20" />
-          <folding>
-            <element signature="imports" expanded="true" />
-            <marker date="1432235752000" expanded="true" signature="390:425" placeholder="SELECT * fro..Feedback..." />
-            <marker date="1432235752000" expanded="true" signature="390:426" placeholder="SELECT * fro..Feedback..." />
-            <marker date="1432235752000" expanded="true" signature="390:467" placeholder="SELECT * fro..Feedback..." />
-            <marker date="1432235752000" expanded="true" signature="390:468" placeholder="SELECT * fro..Feedback..." />
-            <marker date="1432235752000" expanded="true" signature="664:692" placeholder="INSERT INTO ..." />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/bookstore/Registration.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="29" column="41" selection-start-line="29" selection-start-column="37" selection-end-line="29" selection-end-column="37" />
-          <folding>
-            <element signature="imports" expanded="true" />
-            <marker date="1432568717000" expanded="true" signature="337:388" placeholder="select * fro..Customer..." />
-            <marker date="1432568717000" expanded="true" signature="337:401" placeholder="select * fro..Customer..." />
-            <marker date="1432568717000" expanded="true" signature="678:707" placeholder="INSERT INTO ..." />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/bookstore/Ordering.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="41" column="32" selection-start-line="41" selection-start-column="32" selection-end-line="41" selection-end-column="32" />
-          <folding>
-            <element signature="imports" expanded="true" />
-            <marker date="1432238201000" expanded="true" signature="394:430" placeholder="SELECT * fro..Book..." />
-            <marker date="1432238201000" expanded="true" signature="394:431" placeholder="SELECT * fro..Book..." />
-            <marker date="1432238201000" expanded="true" signature="394:442" placeholder="SELECT * fro..Book..." />
-            <marker date="1432238201000" expanded="true" signature="793:820" placeholder="SELECT * FRO..Orders..." />
-            <marker date="1432238201000" expanded="true" signature="793:847" placeholder="SELECT * FRO..Orders..." />
-            <marker date="1432238201000" expanded="true" signature="793:848" placeholder="SELECT * FRO..Orders..." />
-            <marker date="1432238201000" expanded="true" signature="793:876" placeholder="SELECT * FRO..Orders..." />
-            <marker date="1432238201000" expanded="true" signature="793:877" placeholder="SELECT * FRO..Orders..." />
-            <marker date="1432238201000" expanded="true" signature="793:904" placeholder="SELECT * FRO..Orders..." />
-            <marker date="1432238201000" expanded="true" signature="793:905" placeholder="SELECT * FRO..Orders..." />
-            <marker date="1432238201000" expanded="true" signature="793:909" placeholder="SELECT * FRO..Orders..." />
-            <marker date="1432238201000" expanded="true" signature="1035:1061" placeholder="INSERT INTO ..." />
-            <marker date="1432238201000" expanded="true" signature="1431:1578" placeholder="UPDATE Order..." />
+            <marker date="1432623345000" expanded="true" signature="357:461" placeholder="INSERT INTO ..." />
           </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/bookstore/Main.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.78740156">
-          <caret line="66" column="39" selection-start-line="66" selection-start-column="39" selection-end-line="66" selection-end-column="39" />
+        <state vertical-scroll-proportion="0.0">
+          <caret line="149" column="31" selection-start-line="149" selection-start-column="31" selection-end-line="149" selection-end-column="31" />
           <folding>
             <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/bookstore/Book_Browsing.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.6666667">
+          <caret line="68" column="6" selection-start-line="68" selection-start-column="6" selection-end-line="68" selection-end-column="6" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <marker date="1432626032000" expanded="true" signature="432:456" placeholder="SELECT * FRO..Book..." />
+            <marker date="1432626032000" expanded="true" signature="1236:1362" placeholder="SELECT avg(F..Feedback..." />
+            <marker date="1432626032000" expanded="true" signature="1330:1362" placeholder="SELECT * FRO..Book..." />
+            <marker date="1432626032000" expanded="true" signature="1992:2090" placeholder="SELECT avg(F..Feedback..." />
+            <marker date="1432626032000" expanded="true" signature="1992:2294" placeholder="SELECT avg(F..Feedback..." />
+            <marker date="1432626032000" expanded="true" signature="2114:2146" placeholder="SELECT login..." />
+            <marker date="1432626032000" expanded="true" signature="2114:2186" placeholder="SELECT login..WHERE..." />
+            <marker date="1432626032000" expanded="true" signature="2114:2189" placeholder="SELECT login..." />
+            <marker date="1432626032000" expanded="true" signature="2114:2294" placeholder="SELECT missi..." />
+            <marker date="1432626032000" expanded="true" signature="2267:2294" placeholder="SELECT ISBN ..Book..." />
           </folding>
         </state>
       </provider>

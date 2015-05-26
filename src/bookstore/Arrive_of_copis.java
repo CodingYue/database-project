@@ -11,10 +11,11 @@ public class Arrive_of_copis {
 
         for (int i = 0; i < ISBN.length; ++i) {
             PreparedStatement add = con.prepareStatement(
-                    "UPDATE Book SET price = price + " +
+                    "UPDATE Book SET court = court + " +
                     String.valueOf(copis[i]) +
-                    "WHERE Book.ISBN = " + ISBN[i]
+                    " WHERE Book.ISBN = " + ISBN[i]
             );
+            System.out.println(add.toString());
             add.executeUpdate();
         }
 
