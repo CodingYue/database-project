@@ -6,16 +6,21 @@ CREATE TABLE Customer (
 	phone_number varchar(255)
 );
 
+CREATE TABLE WRITTEN (
+	author varchar(255) NOT NULL,
+	ISBN varchar(255) NOT NULL,
+	CONSTRAINT PRIMARY KEY (author, ISBN)
+);
+
 CREATE TABLE Book (
 	ISBN varchar(255) NOT NULL PRIMARY KEY,
 	Title varchar(255) NOT NULL,
-	Authors varchar(255), NOT NULL,
 	price float,
 	format varchar(255),
 	keywords varchar(255),
 	year_of_publication varchar(255), 
 	publisher varchar(255),
-	court varchar(255)
+	court int
 );
 
 CREATE TABLE Feedback (

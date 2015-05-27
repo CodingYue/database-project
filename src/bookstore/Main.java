@@ -1,8 +1,11 @@
 package bookstore;
 
 import com.sun.org.apache.bcel.internal.generic.NEW;
+import com.sun.xml.internal.ws.util.xml.ContentHandlerToXMLStreamWriter;
 
+import javax.sound.midi.SysexMessage;
 import java.awt.print.Book;
+import java.beans.Statement;
 import java.rmi.server.ExportException;
 import java.sql.Connection;
 import java.sql.PreparedStatement;
@@ -93,13 +96,18 @@ public class Main {
         args[6] = "'" + in.nextLine() + "'";
         System.out.print("court : ");
         args[7] = in.nextLine();
+        String[] authors = in.nextLine().split(", ");
         NewBook operation = new NewBook();
-        operation.newbook(con, args);
+        operation.newbook(con, args, authors);
     }
     private static void arrival_of_more_copies(Connection con, Scanner in) throws Exception {
+        System.out.print("How many books ? : ");
         int n = in.nextInt();
         in.nextLine();
         String[] ISBN = new String[n];
+
+        System.out.println("n lines followed, input format : 'ISBN copies'");
+
         int[] copies = new int[n];
         for (int i = 0; i < n; ++i) {
             String[] hehe = in.nextLine().split(" ");
@@ -112,6 +120,9 @@ public class Main {
     private static void feedback_recordings(Connection con, Scanner in) throws Exception {
         String[] args = new String[4];
         in.nextLine();
+
+        System.out.println("4 lines followed : login_name, ISBN, date, rating");
+
         for (int i = 0; i < 3; ++i) args[i] = "'" + in.nextLine() + "'";
         args[3] = in.nextLine();
         Feedback_recordings operation = new Feedback_recordings();
@@ -120,19 +131,25 @@ public class Main {
     private static void usefulness_ratings(Connection con, Scanner in) throws Exception {
         String[] args = new String[3];
         in.nextLine();
-        args[0] = "'" + in.nextLine() + "'";
-        args[1] = in.nextLine();
-        args[2] = in.nextLine();
+        System.out.println("3 lines followed : login_name, feedback_id, score");
+        args[0] = "'" + in.next() + "'";
+        args[1] = in.next();
+        args[2] = in.next();
         Usefulness_ratings operation = new Usefulness_ratings();
         operation.rate(con, args);
     }
     private static void trust_recordings(Connection con, Scanner in) throws Exception {
         String user = "'" + in.next() + "'";
+
         int n = in.nextInt();
-        in.nextLine();
+
 
         String[] args = new String[n];
         String[] trust = new String[n];
+
+        System.out.println("n lines followed : input format 'login_name trust', trust = {1, -1}.");
+        System.out.println("-1 means not trust, 1 means trust");
+        in.nextLine();
 
         for (int i = 0; i < n; ++i) {
             String[] hehe = in.nextLine().split(" ");
@@ -143,13 +160,17 @@ public class Main {
         operation.records(con, user, args, trust);
     }
     private static void book_browsing(Connection con, Scanner in) throws Exception {
-
+        System.out.print("Login Name : ");
         String user = "'" + in.next() + "'";
+        System.out.print("Operation ? (a, b, c) : ");
         char op = in.next().charAt(0);
+
+        System.out.print("How many tag ? n = ");
 
         int limit_n = in.nextInt();
         in.nextLine();
 
+        System.out.println("n lines followed, input format : tag=value");
 
         String[] args = new String[limit_n];
         String[] argsv = new String[limit_n];
@@ -170,6 +191,58 @@ public class Main {
             System.out.println(operation.limit_avg(con, user, args, argsv));
         }
 
+    }
+    private static void useful_feedbacks(Connection con, Scanner in) throws Exception {
+        String ISBN = "'" + in.next() + "'";
+        int K = in.nextInt();
+        Useful_feedbacks operation = new Useful_feedbacks();
+
+        System.out.print(operation.Top_feedbacks(con, ISBN, K));
+
+    }
+    private static void buying_suggestions(Connection con, Scanner in) throws Exception {
+        System.out.print("ISBN : ");
+        String ISBN = "'" + in.next() + "'";
+        Buying_suggestions operation = new Buying_suggestions();
+        String[] suggest = operation.Seggestion(con, ISBN);
+        for (int i = 0; i < suggest.length; ++i)
+            System.out.println(suggest[i]);
+    }
+    private static void two_degrees(Connection con, Scanner in) throws Exception {
+        System.out.println("2 lines followed : authorA, authorB");
+        in.nextLine();
+        String authorA = "'" + in.nextLine() + "'";
+        String authorB = "'" + in.nextLine() + "'";
+        Two_degrees_of_separation operation = new Two_degrees_of_separation();
+        System.out.println(operation.what_degrees(con, authorA, authorB));
+    }
+    private static void statistics(Connection con, Scanner in) throws Exception {
+        Statistics operation = new Statistics();
+        System.out.print("Top m? : m = ");
+        int m = in.nextInt();
+        String[] book = operation.Top_of_book(con, m);
+        String[] publisher = operation.Top_of_publisher(con, m);
+        String[] author = operation.Top_of_authors(con, m);
+
+        for (int i = 0; i < book.length; ++i) System.out.println(book[i]);
+        System.out.println("");
+        for (int i = 0; i < publisher.length; ++i) System.out.println(publisher[i]);
+        System.out.println("");
+        for (int i = 0; i < author.length; ++i) System.out.println(author[i]);
+        System.out.println("");
+    }
+    private static void  user_awards(Connection con, Scanner in) throws Exception {
+        System.out.print("Top m? : m = ");
+        int m = in.nextInt();
+
+        User_awards operation = new User_awards();
+
+        String[] trust = operation.trust(con, m);
+        String[] usefulness = operation.usefulness(con, m);
+        for (int i = 0; i < trust.length; ++i) System.out.println(trust[i]);
+        System.out.println();
+        for (int i = 0; i < usefulness.length; ++i) System.out.println(usefulness[i]);
+        System.out.println();
     }
 
     public static void main(String[] args) throws Exception {
@@ -233,8 +306,29 @@ public class Main {
                 book_browsing(con, in);
             }
 
-            System.out.print("Welcome to BOOKSTORE, enter any key to continue : ");
-            String useless = in.next();
+            if (op == 9) {
+                useful_feedbacks(con, in);
+            }
+
+            if (op == 10) {
+                buying_suggestions(con, in);
+            }
+
+            if (op == 11) {
+                two_degrees(con, in);
+            }
+
+            if (op == 12) {
+                statistics(con, in);
+            }
+
+            if (op == 13) {
+                user_awards(con, in);
+            }
+
+            System.out.println("Welcome to BOOKSTORE, enter ENTER to continue : ");
+            in.nextLine();
+            String useless = in.nextLine();
         }
 
         con.close();
